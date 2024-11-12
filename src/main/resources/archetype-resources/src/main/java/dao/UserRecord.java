@@ -1,0 +1,2 @@
+
+// If use ActiveRecord pattern
